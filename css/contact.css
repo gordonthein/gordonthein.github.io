@@ -1,0 +1,29 @@
+h2 {
+    font-family: Trebuchet MS;
+    font-weight: bold;
+    text-align: center;
+    
+}
+
+.myContact {
+    padding: 20px 50px;
+    /* border: dotted #9DCC4E; */
+}
+
+h3 {
+    color: #9DCC4E;
+    font-weight: bold;
+}
+
+div.divider {
+margin-top: 25px;
+}
+
+.contactMe {
+    border:dotted #9DCC4E;
+    padding: 20px 50px;
+}
+
+h5 {
+    font-weight: bold;
+}

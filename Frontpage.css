@@ -1,0 +1,45 @@
+/* Nav Bar */
+.navbar {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    padding: .5rem 1rem;
+    /* background-color: #9DCC4E; */
+}
+
+/* Nav Bar Active */
+li.nav-item.active {
+    color: #9DCC4E;
+    font-weight: bold;
+    text-decoration: underline;
+  
+}
+
+/* Nav Logo */
+.customNav > a.navbar-brand > img {
+height: 150px;
+width: auto;
+}
+
+h2 {
+    text-align: center;
+    font-family: Trebuchet MS; 
+    
+}
+
+div.divider {
+    margin-bottom: 35px;
+}
+ .row {
+     align-items: center;
+ }
+
+a.viewProjectBtn {
+    background-color: #9DCC4E;
+    color: white;
+    border: 1px solid transparent;
+    font-family: Trebuchet MS;
+    font-weight: lighter;
+}

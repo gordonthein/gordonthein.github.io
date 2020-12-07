@@ -1,0 +1,32 @@
+/* Nav Bar */
+.navbar {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    padding: .5rem 1rem;
+    /* background-color: #9dcc4e; */
+}
+
+/* Nav Bar Active */
+li.nav-item.active {
+    color: #9DCC4E;
+    font-weight: bold;
+    text-decoration: underline;
+    font-family: Trebuchet MS;
+  
+}
+
+/* Nav Logo */
+.customNav > a.navbar-brand > img {
+height: 150px;
+width: auto;
+}
+
+/* media queries */
+@media (max-width: 576px) {
+    .customNav > a.navbar-brand > img {
+        height: 100px;
+    }
+}
