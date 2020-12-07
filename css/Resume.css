@@ -1,0 +1,23 @@
+.contactDivider {
+    margin-bottom: 400px;
+
+}
+.profileDivider {
+    margin-bottom: 50px;
+}
+
+.experienceDivider {
+    margin-bottom: 15px;
+}
+
+.col-sm-4 {
+    background-color: #9DCC4E;
+}
+
+.col-sm-8 {
+    background-color: #e0dcdd;
+}
+
+.headingDivider {
+    margin-bottom: 30px;
+}
